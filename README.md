@@ -1,7 +1,10 @@
 ## Hi there 👋 I'm Alina
 
-SKILLS
--BPMN, UML (Use Case, Sequence, Class diagrams), ER diagrams;
--SQL, REST, JSON, Kafka, RabbitMQ;
--Jira, Confluence, draw.io, Figma Postman;
--Agile (Scrum, Kanban), Waterfall.
+
+
+## SKILLS
+
+Analysis & Modeling: BPMN, UML (Use Case, Sequence, Class diagrams), ER diagrams;
+Tools & Platforms: Jira, Confluence, Visio, draw.io, Figma, Balsamiq,  Postman, Swagger/OpenAPI;
+Technical Skills: SQL (PostgreSQL, Oracle), REST, GraphQL, XML, JSON, Kafka, RabbitMQ;
+Methodologies: Agile (Scrum, Kanban), Waterfall;
